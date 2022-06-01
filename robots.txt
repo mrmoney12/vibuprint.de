@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.vibuprint.de/sitemap.xml
